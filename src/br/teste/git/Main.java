@@ -13,6 +13,6 @@ package br.teste.git;
 public class Main {
     
     public static void main(String[] args) {
-        System.out.println("Testando e aprendendo Git e GitHub");
+        System.out.println("Testando e aprendendo Git e GitHub no NetBeans 8.0");
     }
 }
